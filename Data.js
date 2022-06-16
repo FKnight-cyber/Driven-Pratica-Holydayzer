@@ -1,5 +1,4 @@
-export default function holidays(){
-    const holidays = [
+export const holidays = [
         { date: "1/1/2022", name: "Confraternização mundial" },
         { date: "1/3/2022", name: "Carnaval" },
         { date: "4/17/2022", name: "Páscoa" },
@@ -12,6 +11,3 @@ export default function holidays(){
         { date: "11/15/2022", name: "Proclamação da República" },
         { date: "12/25/2022", name: "Natal" }
       ];
-
-      return holidays;
-}
