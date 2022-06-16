@@ -1,3 +1,3 @@
-# Driven Education
+# Driven Education - practice 1
 
-primeira prática de back-end.
+Brazilian holiday calendar API built with Node.js
